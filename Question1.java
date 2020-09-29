@@ -3,7 +3,7 @@
 class Question1 {
     public static void main(String[] args) {
 
-        /* Write your code here */
+        System.out.println("                 Lebron James                 ");/* Write your code here */
 
     }
 }
